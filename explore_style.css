@@ -1,0 +1,280 @@
+/*omar's*/
+.logo
+{
+    font-size: 34px;
+    color: white;
+}
+
+.logo-items
+{
+    font-size: 18px;
+    color: white;
+    font-weight: 100;
+}
+.dropdown-toggle
+{
+    color: white;
+}
+
+.dropdown-toggle:hover
+{
+    color: white;
+}
+.navbar-toggler-icon
+{
+    color:black !important;
+}
+.dropdown-item:hover
+{
+color: #91B8ED;
+}
+.globe-color:hover
+{
+    color: #91B8ED;
+}
+.moving-globe
+{
+    margin-right: 60px;
+    
+}
+.dropdown-menuu
+{
+    position: relative;
+    top: 60px;
+    left: -15px;
+}
+.signin-button
+{
+    background-color: white !important;
+    border-radius: 30px;
+    padding: 5px 20px;
+    color:#459FED;
+    border: 1px solid #459FED;
+}
+.signin-button:hover
+{
+    background-color:#459FED  !important;
+    color: whitesmoke !important;
+}
+.dropdown-problem
+{
+    margin-top: 10px;
+}
+.navbar .logo-items
+{
+    color :black;
+}
+.fa-globe:hover 
+{
+    color: #459FED;
+}
+.navbar .logo
+{
+   color: black;
+}
+
+
+.signin-button:hover 
+{
+   border: 1px solid #459FED;
+   color: #459FED;   
+}
+/*mine*/
+.cap h1
+{
+    font-size: 52px;
+    letter-spacing:normal;
+    line-height: 57.2px;
+    font-weight:600;
+    font-family: 'Archivo Black', sans-serif;
+    font-style:normal;
+}
+.cap
+{
+    margin-top:70px;
+    margin-bottom: 40px;
+}
+.par .first
+{
+    font-size:14px;
+    font-weight: 600;
+    line-height:19.6px;
+    border-right:2px solid black;
+    padding:0px 10px;
+}
+.par .second a
+{
+    text-decoration: none;
+    color:black;
+    font-size:14px;
+    font-weight:400px;
+    position:relative;
+    left:10px;
+    transition: 0.5s;
+}
+.par .second a:hover
+{
+    color :rgb(71, 69, 232);
+}
+.container .fir
+{
+    border: 1px solid #d3dbe0;
+}
+.fir .bubble
+{
+    height:7px;
+    width:7px;
+    border-radius:50%;
+    background-color:#d3dbe0;
+}
+.line
+{
+    height:1px;
+    width:inherit;
+    background-color: #d3dbe0;
+}
+.fir img
+{
+   width:100%;
+   height: inherit;
+}
+.row .first
+{
+    font-family: 'Archivo Black', sans-serif;
+    font-size:16px;
+    font-weight:400;
+}
+.row .second
+{
+    font-size:16px;
+    font-weight:400;
+}
+.container .words
+{
+    margin-top:100px;
+    font-family: 'Archivo Black', sans-serif;
+    font-size:30px;
+    font-weight:400;
+    margin-bottom:120px;
+}
+.container .words span
+{
+    color:#292929;
+    font-size:16px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.capito
+{
+    margin-top:200px;
+    font-size:102px;
+    font-weight: 400;
+     font-family: 'Archivo Black', sans-serif;
+    margin-bottom:70px;
+}
+.obad a 
+{
+    text-decoration: none;
+    font-size:30px;
+    font-weight: 400;
+    font-family: 'Archivo Black', sans-serif;
+    color:black;
+    transition: 0.5s;
+}
+.obad a i 
+{
+    position:relative;
+    top:5px;
+}
+.obad:hover a
+{
+    color:rgb(89, 38, 196);
+}
+.row .back
+{
+    background-color: blueviolet;
+    position: relative;
+}
+.row .back p 
+{
+    text-align: center;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.row .back a 
+{
+    color:white;
+    opacity: 0;
+    text-decoration: none;
+}
+.ola:hover img
+{
+    opacity:0;
+}
+.ola:hover  a
+{
+    opacity:1;
+}
+.ola .lin
+{
+    width:70px;
+    height: 2px;
+    background-color: white;
+    opacity: 0;
+    position:absolute;
+    left :50%;
+    bottom:45%;
+    transform:translate(-50%);
+    
+}
+.ola:hover .lin
+{
+    opacity: 1;
+}
+.leno
+{
+    width:100%;
+    height:1px;
+    background-color: #d3dbe0;
+    margin-bottom:120px;
+    margin-top:100px;
+}
+
+
+/*Fouad's*/
+*
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h5
+{
+	margin-bottom: 25px
+}
+
+.col
+{
+	margin-bottom: 10px;
+
+}
+
+.col a
+{
+	text-decoration: none;
+	color: grey
+}
+
+.socialmedia
+{
+	list-style: none;
+}
+
+.socialmedia li
+{
+	display: inline-block;
+	padding: 10px;
+	cursor: pointer;
+}
